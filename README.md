@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Sahibjadatalib Ansari
-#### Software engineer || Android app developer
+#### Software engineer | Android app developer
 
 ![Software engineer || Android app developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
