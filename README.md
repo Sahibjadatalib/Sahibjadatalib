@@ -12,8 +12,6 @@ I enjoy creating android applications. I also enjoy to learn new technologies. A
 - Json
 - etc.
 
-## Examples of Work
-
 
 
 
