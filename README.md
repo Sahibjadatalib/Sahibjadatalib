@@ -14,9 +14,8 @@ I enjoy creating android applications. I also enjoy to learn new technologies. A
 
 ## My work
 
-1. [The Photos Unlimited App](https://github.com/Sahibjadatalib/Photos-Unlimited#photos-unlimited)
-
-2. [The Password Manager App](https://github.com/Sahibjadatalib/PasswordManagerApp/tree/master#passwordmanagerapp)
+1. [The Photos Unlimited App](https://github.com/Sahibjadatalib/Photos-Unlimited/blob/finished/README.md)
+2. [The Password Manager App](https://github.com/Sahibjadatalib/PasswordManagerApp/blob/finished/README.md)
 
 
 
