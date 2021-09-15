@@ -1,6 +1,6 @@
 
 ## Sahibjadatalib Ansari (Software engineer | Android app developer)
-I’m currently working on my own project but looking for good opportunities for Software engineer role or Android developer role.
+I’m currently working on my own projects but looking for good opportunities for Software engineer role or Android developer role.
 I enjoy creating android applications. I enjoy learning new technologies. Also I am good at data structures and algorithms.
 
 ## Skills and Experience
@@ -8,6 +8,7 @@ I enjoy creating android applications. I enjoy learning new technologies. Also I
  <li> C++ </li>
  <li> Kotlin </li>
  <li> Java </li>
+ <li> Android app development </li>
  <li> Rest Api </li>
  <li> Data structures </li>
  <li> Algorithms </li>
