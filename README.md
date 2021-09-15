@@ -4,13 +4,15 @@ I’m currently working on my own project but looking for good opportunities for
 I enjoy creating android applications. I enjoy learning new technologies. Also I am good at data structures and algorithms.
 
 ## Skills and Experience
-- C++
-- Kotlin
-- Jetpack compose
-- Java
-- Data structures and Algorithms
-- Json
-- etc.
+<ul>
+ <li> C++ </li>
+ <li> Kotlin </li>
+ <li> Java </li>
+ <li> Rest Api </li>
+ <li> Data structures </li>
+ <li> Algorithms </li>
+ <li> Jetpack compose </li>
+</ul>
 
 ## My work
 
