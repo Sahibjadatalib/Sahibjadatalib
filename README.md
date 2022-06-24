@@ -2,7 +2,7 @@
 ## Sahibjadatalib Ansari (Software engineer | Android app developer)
 Strong problem-solving skills. Proficient in <b>JAVA, ANDROID and KOTLIN</b>. Strong grasp of object-oriented programming
  <b>(OOPs)</b>. Passionate about learning, implementing and launching new projects. Familiar with <b>MVVM and Clean Code (Uncle Bob)</b> software architectural
-patterns. Looking to start my career as an entry-level software engineer with a reputed firm driven by technology.
+patterns.
 
 ## Skills and Experience
 <ul>
